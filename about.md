@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: articlewocomment
 titles:
   # @start locale config
   en      : &EN       About
