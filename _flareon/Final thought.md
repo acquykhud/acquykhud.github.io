@@ -11,7 +11,8 @@ show_edit_on_github: false
 show_subscribe: false
 pageview: true
 title: Final thoughts
-tag: flareon
+tag: flare-on
+excerpt: Cảm nhận của mình về flare-on lần này.
 ---
 # Final thoughts
 

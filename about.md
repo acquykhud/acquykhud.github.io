@@ -31,4 +31,4 @@ key: page-about
 </p>
 
 Xin chào, mình là Trung, sinh viên trường Đại học Khoa Học Tự Nhiên, thành phố Hồ Chí Minh.
-Mình yêu thích computer security, và hiện đang tập trung nghiên cứu chủ yếu về Reverse Engineering.
+Mình thích computer security, chơi CTF, và hiện đang tập trung vào Reverse Engineering.
