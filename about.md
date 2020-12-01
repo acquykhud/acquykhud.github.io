@@ -30,5 +30,7 @@ key: page-about
   <img src="./assets/images/avatar/flappy.jpg" alt="Flappy Bird"/>
 </p>
 
-Xin chào, mình là Trung, sinh viên trường Đại học Khoa Học Tự Nhiên, thành phố Hồ Chí Minh.
-Mình thích computer security, chơi CTF, và hiện đang tập trung vào Reverse Engineering.
+Xin chào, mình là Trung, sinh viên năm ba trường Đại học Khoa Học Tự Nhiên, thành phố Hồ Chí Minh.
+Mình thích computer security, chơi CTF, và hiện đang tập trung vào lĩnh vực Reverse Engineering. Mình đã tự học hacking được khoảng hai năm, và vẫn tiếp tục học hỏi từng ngày.
+
+Blog cá nhân của mình là nơi chia sẻ những thứ về Reverse Engineering, CTF, hacking ..., đồng thời cũng là nơi mình chia sẻ những suy nghĩ, cảm xúc thật của mình nên bạn đọc đừng yêu cầu sự chuyên nghiệp từ mình nhé ^^!
