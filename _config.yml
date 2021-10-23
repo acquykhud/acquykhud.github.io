@@ -10,8 +10,12 @@
 #    |  |  | .-. :  .'    \ '-.  .-'
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
+collections_dir: collections
+
 collections:
-  flareon:
+  flareon7:
+    output: true
+  flareon8:
     output: true
 
 host: 0.0.0.0
