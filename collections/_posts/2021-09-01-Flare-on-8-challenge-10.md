@@ -13,6 +13,8 @@ pageview: true
 title: Flare-On 8, Challenge 10
 excerpt: 'Understand the VM in challenge 10'
 tag: flareon
+description: 'My writeup for challenge 10 #flareon8'
+image: '/assets/images/flareon/2021/10/9.png'
 ---
 # First words
 This year, I finished all of the challenges in less than 10 days. In my opinion, they are easier and more guessing than previous year. The last challenge includes a crypto bug that makes it far too easy (I'm not sure if this is intended or not). Solving it with this bug doesn't make me happy so I decided to do it again in a "proper" way.
